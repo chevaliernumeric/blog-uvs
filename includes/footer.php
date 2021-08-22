@@ -1,0 +1,1 @@
+<footer>&copy;Copyright tout droit réservé à hakkuframwork</footer>
